@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yi Peng, or you can call me Ollie.
 - 👀 I’m interested in mobile and web applications development, and an enthusiast on learning newest technologies.
-- 🌱 I’m currently learning JavaScript-based tech stacks (React, Express, Node, PostgreSQL...etc)
+- 🌱 I’m currently learning Vim and common design patterns.
 - 📫 Contact me by email: ypeng.ollie@gmail.com
 
 <!---
