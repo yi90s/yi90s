@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yi Peng, or you can call me Ollie.
 - 👀 I’m interested in mobile and web applications development, and an enthusiast on learning newest technologies.
-- 🌱 What am I learning: Vim text editor and software design patterns.
+- 🌱 What am I learning: MIT6.033 Computer System Design.
 - :book: What am I reading: Clean Code and The Road Less Traveled.
 - 📫 Contact me through email: ypeng.ollie@gmail.com
 
