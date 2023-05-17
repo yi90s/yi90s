@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yi Peng, or you can call me Ollie.
 - 👀 I’m interested in mobile and web applications development, and an enthusiast on learning newest technologies.
-- 🌱 What am I learning: MIT6.033 Computer System Design.
-- :book: What am I reading: Clean Code and The Road Less Traveled.
+- 🌱 What am I learning: developing an AI-powered web app
+- :book: What am I reading: Clean Architecture A Craftsman Guide to Software Structure and Design by Robert Cecil Martin
 - 📫 Contact me through email: ypeng.ollie@gmail.com
 
 <!---
