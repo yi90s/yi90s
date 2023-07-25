@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Yi Peng, or you can call me Ollie.
-- 👀 I’m interested in mobile and web applications development, and an enthusiast on learning newest technologies.
-- 🌱 What am I learning: developing an AI-powered web app
-- :book: What am I reading: Clean Architecture A Craftsman Guide to Software Structure and Design by Robert Cecil Martin
+- 👀 I’m interested in learning best coding practices and building distributed systems.
 - 📫 Contact me through email: ypeng.ollie@gmail.com
+- [Here is my resume](https://drive.google.com/file/d/1ttTIUk2BeQ8sJfBjxJuzk_AbEc7p-bD1/view?usp=sharing)
 
 <!---
 yi90s/yi90s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
